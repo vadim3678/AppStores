@@ -23,6 +23,6 @@ Go to apple app store connect -> My Apps and select app type you want to add
 
 ... fill form using identifier you have created
 
-![Adding identifiew](https://github.com/vadim3678/AppStores/blob/master/images/ios/4.jpg)
+![Adding identifiew](https://github.com/vadim3678/AppStores/blob/master/images/ios/4.png)
 
 
