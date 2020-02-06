@@ -1,4 +1,4 @@
-# Separating of the application
+# Multi application compilation
 
 ## The application can be built for different clients: waiter and kitchen.
 
