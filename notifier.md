@@ -31,10 +31,10 @@ folders "kitchen" and "waiter" contains subfolder to be changed while compiling
 In the `scripts` section of `package.json` add script for new application
 
 ```json
-    "scripts": {
-        "load-waiter-b": "node switcher.js --appPath=waiter && tns build android",
-		"load-kitchen-b": "node switcher.js --appPath=kitchen && tns build android"
-    }
+"scripts": {
+    "load-waiter-b": "node switcher.js --appPath=waiter && tns build android",
+    "load-kitchen-b": "node switcher.js --appPath=kitchen && tns build android"
+}
 ```
 Now you can build the application for example for waiters just running the script
 
@@ -46,9 +46,9 @@ The `switcher.js`, which you can find in the root directory, takes client name f
 
 ``` json
 "nativescript": {
-		"id": "net.bonee.waiter",
+    "id": "net.bonee.waiter",
         
 }     
 ```
  
-Another script `prep-bonee.js` located in `hooks/before-prepare/` changes folders and files from main `app/` directory with folders and files from `bonee-apps/kitchen/` or `bonee/apps/waiter` relying on application id in `package.json` when application is building or running.
+Another script `prep-bonee.js` located in `hooks/before-prepare/` changes folders and files from main `app/` directory with folders and files from `bonee-apps/kitchen/` or `bonee/apps/waiter/` relying on application id in `package.json` when application is building or running.
