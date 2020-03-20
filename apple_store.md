@@ -11,7 +11,7 @@ then create identifier
 
 select app options and fill bundle id
 
-![Adding identifiew](https://github.com/vadim3678/AppStores/blob/master/images/ios/2.jpg)
+![Registering features](https://github.com/vadim3678/AppStores/blob/master/images/ios/2.jpg)
 
 > for some options you will need to add a certificate
 
@@ -19,10 +19,35 @@ select app options and fill bundle id
 
 Go to apple app store connect -> My Apps and select app type you want to add
 
-![Adding identifiew](https://github.com/vadim3678/AppStores/blob/master/images/ios/3.jpg)
+![Adding an app](https://github.com/vadim3678/AppStores/blob/master/images/ios/3.jpg)
 
 ... fill form using identifier you have created
 
-![Adding identifiew](https://github.com/vadim3678/AppStores/blob/master/images/ios/4.png)
+![Adding an app](https://github.com/vadim3678/AppStores/blob/master/images/ios/4.png)
 
+### Adding certificates
+
+For some option you need to add certificates. You have to find keychain app on Mac and create cerificate request
+
+![Creating request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_3.png)
+
+![Saving request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_4.png)
+
+![Request in finder](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_5.png)
+
+Then return to apple connect console where you created app identifier and start adding certificate
+
+![Adding certificate](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_1.png)
+
+You will be redirected to loading request page. Upload request you have created on Mac
+
+![Loading request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_2.png)
+
+Download certificate to Mac
+
+![Downloading certificate](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_6.png)
+
+Find created certificate and execute it. After that it will appear on Keychain app
+
+![Certificate in keychain](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_7.png)
 
