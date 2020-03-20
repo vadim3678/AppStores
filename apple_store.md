@@ -1,5 +1,7 @@
 # Process of adding new application into apple store 
 
+## Adding application
+
 ### Creating app identifier
  go to 
 ```
@@ -25,7 +27,8 @@ Go to apple app store connect -> My Apps and select app type you want to add
 
 ![Adding an app](https://github.com/vadim3678/AppStores/blob/master/images/ios/4.png)
 
-### Adding certificates
+
+## Adding certificates
 
 First you have to find keychain app on Mac and create cerificate request
 
