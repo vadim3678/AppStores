@@ -40,11 +40,6 @@ Fill email, request name and save it to disk
 ![Saving request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_4.png)
 
 
-Request file on disk
-
-![Request in finder](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_5.png)
-
-
 Then return to apple connect console where you have created app identifier and start adding certificate
 
 ![Adding certificate](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_1.png)
@@ -53,6 +48,11 @@ Then return to apple connect console where you have created app identifier and s
 You will be redirected to loading request page. Upload request you have created on Mac
 
 ![Loading request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_2.png)
+
+
+Select new request file
+
+![Request in finder](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_5.png)
 
 
 Download certificate to Mac
