@@ -31,11 +31,15 @@ For some option you need to add certificates. You have to find keychain app on M
 
 ![Creating request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_3.png)
 
+Fill email, request name and save it to disk 
+
 ![Saving request](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_4.png)
+
+Request file on disk
 
 ![Request in finder](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_5.png)
 
-Then return to apple connect console where you created app identifier and start adding certificate
+Then return to apple connect console where you have created app identifier and start adding certificate
 
 ![Adding certificate](https://github.com/vadim3678/AppStores/blob/master/images/ios/cert_1.png)
 
