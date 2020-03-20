@@ -1,5 +1,9 @@
 # Process of adding new application into apple store 
 
+- [Adding application](#adding-application)
+- [Adding certificates](#adding-certificates)
+
+
 ## Adding application
 
 ### Creating app identifier
